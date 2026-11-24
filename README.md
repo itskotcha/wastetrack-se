@@ -1,10 +1,10 @@
 # wastetrack-se
 
-Development of a Garbage Truck Tracking System for Mae Kha Subdistrict Administrative Organization, Fang District, Chiang Mai Province (WasteTrack) — Project Code: SE02
+Development of a Garbage Truck Tracking System for Mae Kha Subdistrict Administrative Organization, Fang District, Chiang Mai Province (WasteTrack)
 
 **การพัฒนาระบบติดตามรถขยะสำหรับองค์การบริหารส่วนตำบลแม่คะ อำเภอฝาง จังหวัดเชียงใหม่**
 
-หลักสูตรวิศวกรรมซอฟต์แวร์ มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา · ENGSE211 / ENGSE212
+หลักสูตรวิศวกรรมซอฟต์แวร์ มหาวิทยาลัยเทคโนโลยีราชมงคลล้านนา · ENGSE211 / ENGSE212 / ENGSE601
 
 ## ภาพรวม
 
